@@ -1,7 +1,6 @@
 # Actual technologies in the React and Typescript on August 2022
 
-In this projext I show modern React and Typescript. I use custom hooks, context, use TypeScript and models to desribe entities
-I show simple way to fetch data from remote server via REST API and project architecture
+In this project I show modern React and Typescript. I use custom hooks, context, use TypeScript and models to describe entities I show how you can organize project architecture and simple way to fetch data from remote server via REST API
 
 # Getting Started with Create React App
 
